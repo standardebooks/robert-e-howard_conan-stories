@@ -41,7 +41,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Conan the Barbarian</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of Robert E. Howard’s short stories featuring Conan the Barbarian.</dc:abstract>
+		<meta property="schema:abstract">A collection of Robert E. Howard’s short stories featuring Conan the Barbarian.</meta>
 		<dc:description>
 			&lt;p&gt;Conan, the Cimmerian barbarian, romps across &lt;a href="https://standardebooks.org/ebooks/robert-e-howard"&gt;Robert E. Howard’s&lt;/a&gt; world of Hyboria, slicing down enemy after enemy and trying not to fall &lt;em&gt;too&lt;/em&gt; hard for a succession of ladies in need of rescue. Although very much a product of the pulp fantasy magazines of the 1930s, Conan has surpassed his contemporaries to become the quintessential barbarian of the fantasy genre: the muscle-bound and instinct-led hero, always willing to fight his way out of any fix.&lt;/p&gt;
 			&lt;p&gt;Collected here are Howard’s Conan short stories that are in the U.S. public domain, as well as a history of Hyboria that Howard wrote as a writing guide. Nearly all of Conan’s adventures were first published in &lt;i&gt;Weird Tales&lt;/i&gt; magazine.&lt;/p&gt;
