@@ -113,7 +113,7 @@
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
-		<link href="http://www.robinwhittleton.com/" refines="#producer-1" rel="schema:url"/>
+		<link href="https://www.robinwhittleton.com/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -129,6 +129,7 @@
 		<meta property="role" refines="#producer-2" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-3">Hendrik Kaiber</dc:contributor>
 		<meta property="file-as" refines="#producer-3">Kaiber, Hendrik</meta>
+		<meta property="schema:alternateName" refines="#producer-3">Hendrik de Wetterle Bonow Kaiber</meta>
 		<meta property="role" refines="#producer-3" scheme="marc:relators">tad</meta>
 	</metadata>
 	<manifest>
